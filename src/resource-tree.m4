@@ -1,4 +1,4 @@
-include(`/usr/share/doc/m4/examples/capitalize2.m4')dnl
+include(`./lib/capitalize2.m4')dnl
 define(`ICON_LABEL',`label=<
 		<table cellspacing="0" border="0" cellborder="1">
 			<tr><td><img src="icons/$1" /></td></tr>
