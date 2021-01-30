@@ -27,3 +27,6 @@ I'm using `reflex` and `feh` to automatically rebuild and preview images.
 - [m4 comprehensive guide](https://www.gnu.org/savannah-checkouts/gnu/m4/manual/m4-1.4.18/m4.html)
 - [m4 basics by example](https://mbreen.com/m4.html)
 
+## Example Output
+![Resource Tree](./output/resource-tree.png)
+
